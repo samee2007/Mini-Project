@@ -31,3 +31,22 @@ gcc student_management.c -o student_mgmt
 
 # Run
 ./student_mgmt
+
+| Function Name     | Purpose                       |
+| ----------------- | ----------------------------- |
+| `addStudent()`    | Adds a new student to file    |
+| `viewStudents()`  | Displays all student records  |
+| `searchStudent()` | Searches by roll number       |
+| `deleteStudent()` | Deletes record by roll number |
+| `isDuplicate()`   | Checks for duplicate roll no. |
+
+
+## 📚 Topics Covered
+
+- ✅ **C Structures**
+- ✅ **File Handling (Text File)**
+- ✅ **Menu-Driven Programming**
+- ✅ **String Parsing with `sscanf`**
+- ✅ **Looping and Conditionals**
+
+
