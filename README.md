@@ -32,6 +32,7 @@ gcc student_management.c -o student_mgmt
 # Run
 ./student_mgmt
 
+```
 ---
 ## 🛠 Functions Used
 
